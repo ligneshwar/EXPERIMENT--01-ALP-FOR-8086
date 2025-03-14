@@ -23,7 +23,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
-8.	 
+    
 ![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
 
 9.	Click on emulate to start emulation 
