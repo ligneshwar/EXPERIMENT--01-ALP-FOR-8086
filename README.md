@@ -1,8 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 ```
-Name :EASWAR R
-Roll no :212223230053
-Date of experiment : 10/03/2025
+Name :Ligneshwar K
+Roll no :212223230113
+Date of experiment : 14/03/2025
 ```
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
